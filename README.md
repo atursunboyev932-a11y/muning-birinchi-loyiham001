@@ -1,9 +1,9 @@
 # muning-birinchi-loyiham001
 ## Aloqa
 
-GitHub: mening birinchi loyiham
+1.GitHub: mening birinchi loyiham
 
-Kelajakda yanada ko‘proq loyihalar yarataman!
+1.Kelajakda yanada ko‘proq loyihalar yarataman!
 
 **bu kurs tekn boladi**
 ## Kelajakdagi rejalar
