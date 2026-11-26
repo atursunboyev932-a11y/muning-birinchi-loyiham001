@@ -2,9 +2,9 @@
 ## bu loyihada biz ai video yasashni organish
 1. Google Chrome
 -bu eng zori
- bu kurs tekn boladi
+** bu kurs tekn boladi
 ## Xulosa
 
 Bu mening GitHub'dagi birinchi loyiham.
-**Kelajakdagi rejalar
+Kelajakdagi rejalar
 - AI orqali sifatli videolar yaratish.
