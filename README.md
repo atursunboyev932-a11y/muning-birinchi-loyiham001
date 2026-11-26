@@ -1,8 +1,8 @@
 # muning-birinchi-loyiham001
-##bu loyihada biz ai video yasashni organish
-##Google Chrome
+## bu loyihada biz ai video yasashni organish
+## Google Chrome
 -bu eng zori
-##bu kurs tekn boladi
+## bu kurs tekn boladi
 ## Xulosa
 
 Bu mening GitHub'dagi birinchi loyiham.
