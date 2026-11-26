@@ -8,3 +8,10 @@
 Bu mening GitHub'dagi birinchi loyiham.
 Kelajakdagi rejalar
 - AI orqali sifatli videolar yaratish.
+## Afzalliklari
+
+- Bepul foydalanish mumkin.
+- O‘rganish oson.
+- Vaqtni tejaydi.
+- Ijodkorlikni rivojlantiradi.
+- 
