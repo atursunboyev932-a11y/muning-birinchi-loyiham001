@@ -14,4 +14,3 @@ Kelajakdagi rejalar
 - O‘rganish oson.
 - Vaqtni tejaydi.
 - Ijodkorlikni rivojlantiradi.
-- 
