@@ -3,11 +3,11 @@
 1. Google Chrome
 -bu eng zori
 **bu kurs tekn boladi**
-## Xulosa
+## Kelajakdagi rejalar
 
-Bu mening GitHub'dagi birinchi loyiham.
-Kelajakdagi rejalar
 - AI orqali sifatli videolar yaratish.
+- Yangi AI dasturlarni o‘rganish.
+- O‘z saytimni rivojlantirish.
 ## Afzalliklari
 
 - Bepul foydalanish mumkin.
