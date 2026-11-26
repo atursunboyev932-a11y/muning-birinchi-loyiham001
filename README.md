@@ -6,5 +6,5 @@
 ## Xulosa
 
 Bu mening GitHub'dagi birinchi loyiham.
-** Kelajakdagi rejalar
+**Kelajakdagi rejalar
 - AI orqali sifatli videolar yaratish.
