@@ -6,10 +6,5 @@
 ## Xulosa
 
 Bu mening GitHub'dagi birinchi loyiham.
-Men bu loyiha orqali AI yordamida video yaratishni o‘rganmoqchiman.
-## Kelajakdagi rejalar
-
+** Kelajakdagi rejalar
 - AI orqali sifatli videolar yaratish.
-- Yangi AI dasturlarni o‘rganish.
-- O‘z saytimni rivojlantirish.
-** ulgurib qoling joylar soni cheklangan
