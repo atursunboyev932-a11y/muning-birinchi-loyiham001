@@ -2,6 +2,7 @@
 ## bu loyihada biz ai video yasashni organish
 1. Google Chrome
 -bu eng zori
+** ulgurib qoling joylar soni cheklangan
  bu kurs tekn boladi
 ## Xulosa
 
