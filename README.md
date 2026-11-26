@@ -1,2 +1,14 @@
 # muning-birinchi-loyiham001
-Mening birinchi loyiham  Bu mening ilk loyiham bo‘lib, u bilim va ko‘nikmalarimni rivojlantirish, amaliy tajriba orttirish hamda o‘z g‘oyalarimni hayotga tatbiq etish maqsadida yaratildi. Ushbu loyiha orqali yangi texnologiyalarni o‘rganish, muammolarni hal qilish qobiliyatimni oshirish va kelajakdagi loyihalarim uchun mustahkam
+##bu loyihada biz ai video yasashni organish
+**Google Chrome
+-bu eng zori
+1.bu kurs tekn boladi
+## Xulosa
+
+Bu mening GitHub'dagi birinchi loyiham.
+Men bu loyiha orqali AI yordamida video yaratishni o‘rganmoqchiman.
+## Kelajakdagi rejalar
+
+- AI orqali sifatli videolar yaratish.
+- Yangi AI dasturlarni o‘rganish.
+- O‘z saytimni rivojlantirish.
